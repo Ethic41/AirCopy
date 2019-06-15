@@ -1,3 +1,4 @@
 # ignore the intellij idea directory
 .idea*
-/rough*
+*rough*
+*.iml
