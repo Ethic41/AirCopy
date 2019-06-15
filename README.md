@@ -1,2 +1,3 @@
-"# AirCopy" 
-"## Remote Copy and Paste" 
+# AirCopy
+
+## Remote Copy and Paste cross-platform desktop applicaton
