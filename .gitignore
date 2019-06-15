@@ -1,0 +1,3 @@
+# ignore the intellij idea directory
+^.idea$
+^.idea/*
